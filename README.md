@@ -19,3 +19,5 @@ Este ee mi repositorio de prueba ok?
 | Clases | Resumenes |
 | ------ | --------- |
 | Grabando alteracion en el repositorio local | [Resumen-1](https://aldoquevedo.tech/)|
+
+New line
