@@ -1,5 +1,5 @@
 
-# Repositorio de PRUEBA 1 - Edited1
+# Repositorio de PRUEBA 1 
 
 Este ee mi repositorio de prueba ok?
 
