@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-eee cambios hechos local
-=======
 eee
 cambios hechos repositorio
->>>>>>> 0f0660d889c8ff9b7acab283f1023f0cb2e45e85
+
