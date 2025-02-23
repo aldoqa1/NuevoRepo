@@ -1,5 +1,9 @@
 lugar nuevo
 <<<<<<< HEAD
+<<<<<<< HEAD
 sdsad
 =======
 >>>>>>> 860b27d15dc24c129484674e1eb3ac272cf0f5be
+=======
+sdsadsd
+>>>>>>> teste
