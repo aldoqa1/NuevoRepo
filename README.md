@@ -20,4 +20,5 @@ Este ee mi repositorio de prueba ok?
 | ------ | --------- |
 | Grabando alteracion en el repositorio local | [Resumen-1](https://aldoquevedo.tech/)|
 
-New line
+New line 1
+ 
